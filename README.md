@@ -6,7 +6,7 @@ To write a java program to print the even numbers between 1-20.
 ### Step 1:
 Import the necessary packages.
 ### Step 2: 
-Initialize a variable value as 2 and set a for loop.
+Initialize a variable i as 2 and set a for loop.
 ### Step 3: 
 Check the number is even or not using if else statement.
 ### Step 4:  
@@ -33,10 +33,7 @@ public class Main {
 ~~~
 
 ## OUTPUT:
-
+![4](https://github.com/abdulwasih2003/Exp-4-Java-program-to-print-the-even-numbers-between-1-20/assets/91781810/ab1fddc0-d6a0-485b-8b86-390a78f311ce)
 
 ## RESULT:
 Thus the java program to print the even numbers between 1-20 is successful.
-
-
-
